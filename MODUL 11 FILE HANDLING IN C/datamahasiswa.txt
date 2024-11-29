@@ -1,0 +1,12 @@
+Data Mahasiswa ke-1 :
+Nama                 : DUTA FANROZA
+NIM:                 : 24343005
+Jurusan              : TEKNIK ELEKTRONIKA
+Program Studi        : INFORMATIKA
+----------------------------------------------
+Data Mahasiswa ke-2 :
+Nama                 : AHMAD NAUFAL AZZUHDI
+NIM:                 : 24343029
+Jurusan              : TEKNIK ELEKTRONIKA
+Program Studi        : INFORMATIKA
+----------------------------------------------
