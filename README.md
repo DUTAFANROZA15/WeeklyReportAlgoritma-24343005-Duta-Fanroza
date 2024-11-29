@@ -114,7 +114,7 @@
 
 # MODUL 3 VARIABEL,KONSTANTA,DAN TIPE DATA
 **Tujuan Pembelajaran :**
-1.	Mampu menjelaskan dan mengimplementasikan Variables, Constanta, Data Types, Type Casting, Keywords dalam pemrograman menggunakan IDE.<br>
+1.	Mampu menjelaskan dan mengimplementasikan Variables, Constanta, Data Types, Type Casting, Keywords dalam pemrograman menggunakan IDE.
 
 **Penjelasan Singkat Materi:<br>**
 **A.	Variabel<br>**
@@ -160,9 +160,10 @@
 
 
 # MODUL 4 OPERATOR
-Tujuan Pembelajaran :
+**Tujuan Pembelajaran :**
 1.	Mampu menjelaskan dan mengimplementasikan Operator dalam pemrograman menggunakan IDE.
-Penjelasan Singkat Materi:<br>
+   
+**Penjelasan Singkat Materi:<br>**
 **A.	Operator<br>**
 •	Operator adalah simbol yang digunakan untuk melakukan operasi tertentu.<br>
 •	Contoh operator: +, -, *, /, %, etc.<br>
@@ -222,7 +223,8 @@ Penjelasan Singkat Materi:<br>
 
 # MODUL 5 FLOW CONTROL: DECISION MAKING
 **Tujuan Pembelajaran :**
-1.	Mampu menjelaskan dan mengimplementasikan Flow Control: Pengambilan Keputusan dalam pemrograman menggunakan IDE.<br>
+1.	Mampu menjelaskan dan mengimplementasikan Flow Control: Pengambilan Keputusan dalam pemrograman menggunakan IDE.
+
 **Penjelasan Singkat Materi:<br>**
 **A. Pernyataan If<br>**
 •	Definisi: Pernyataan if digunakan untuk mengeksekusi blok kode tertentu jika kondisi yang diberikan terpenuhi (benar). Jika kondisi tersebut tidak terpenuhi, program akan melanjutkan eksekusi ke baris berikutnya tanpa mengeksekusi blok tersebut.<br>
@@ -255,7 +257,8 @@ Penjelasan Singkat Materi:<br>
 
 # MODUL 6 FLOW CONTROL: LOOP (PERULANGAN)
 **Tujuan Pembelajaran :**
-1.	Mampu menjelaskan dan mengimplementasikan Looping: Perulangan dalam pemrograman menggunakan IDE.<br>
+1.	Mampu menjelaskan dan mengimplementasikan Looping: Perulangan dalam pemrograman menggunakan IDE.
+   
 **Penjelasan Singkat Materi:<br>**
 **A. Perulangan For<br>**
 •	Definisi: Perulangan for adalah jenis perulangan yang digunakan ketika jumlah iterasi sudah diketahui sebelumnya. Ini sering digunakan untuk mengulang blok kode dengan variabel penghitung yang jelas.<br>
@@ -286,7 +289,7 @@ Penjelasan Singkat Materi:<br>
 # MODUL 7 STRUKTUR DATA: ARRAY
 **Tujuan Pembelajaran :**
 1.	Mampu menjelaskan dan mengimplementasikan Data Structure: Array dalam pemrograman menggunakan IDE.
-<br>
+
 **Penjelasan Singkat Materi:**
 <br>
 **A.	Pengertian Array**
@@ -338,7 +341,8 @@ Penjelasan Singkat Materi:<br>
 
 # MODUL 8 FUNGSI & PROSEDUR
 **Tujuan Pembelajaran :**
-1.	Mampu menjelaskan dan mengimplementasikan Function & Procedure dalam pemrograman menggunakan IDE.<br>
+1.	Mampu menjelaskan dan mengimplementasikan Function & Procedure dalam pemrograman menggunakan IDE.
+   
 **Penjelasan Singkat Materi:<br>**
 **A.	Pengertian Fungsi<br>**
 •	Fungsi adalah sub-program yang dapat digunakan kembali dalam program. Fungsi memungkinkan pengorganisasian kode yang lebih baik dan pengurangan pengulangan kode.<br>
@@ -370,7 +374,8 @@ Penjelasan Singkat Materi:<br>
 
 # MODUL 9 POINTER
 **Tujuan Pembelajaran :**
-1.	Mampu menjelaskan dan mengimplementasikan Pointer dalam pemrograman menggunakan IDE.<br>
+1.	Mampu menjelaskan dan mengimplementasikan Pointer dalam pemrograman menggunakan IDE.
+   
 **Penjelasan Singkat Materi:<br>**
 **A.	Pengertian Pointer<br>**
 •	Pointer adalah variabel yang menyimpan alamat memori dari variabel lain. Setiap variabel memiliki alamat memori yang unik, dan pointer digunakan untuk mengakses data di alamat tersebut.<br>
@@ -402,7 +407,8 @@ Penjelasan Singkat Materi:<br>
 
 # MODUL 10 ENUMERASI & STRUCTURE
 **Tujuan Pembelajaran :**
-1.	Mampu menjelaskan dan mengimplementasikan Enum dan Structure dalam pemrograman menggunakan IDE.<br>
+1.	Mampu menjelaskan dan mengimplementasikan Enum dan Structure dalam pemrograman menggunakan IDE.
+   
 **Penjelasan Singkat Materi:<br>**
 **A.	Pengertian Enum<br>**
 •	Enum (Enumerasi) adalah tipe data yang berisi sekumpulan konstanta.<br>
@@ -439,7 +445,8 @@ Penjelasan Singkat Materi:<br>
 
 # MODUL 11 FILE HANDLING IN C
 **Tujuan Pembelajaran :**
-1.	Mampu menjelaskan dan mengimplementasikan Write & Read dalam File dalam pemrograman menggunakan IDE.<br>
+1.	Mampu menjelaskan dan mengimplementasikan Write & Read dalam File dalam pemrograman menggunakan IDE.
+   
 **Penjelasan Singkat Materi:<br>**
 **A.	Pengantar File Handling di C<br>**
 •	Pentingnya menyimpan data secara permanen menggunakan file.<br>
