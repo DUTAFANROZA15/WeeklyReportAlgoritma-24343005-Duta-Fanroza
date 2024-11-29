@@ -1,146 +1,85 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Anmol Pratap Singh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Technical Lead at <a href="https://fliki.ai/">Fliki AI
-</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol)
-[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol098/)
-![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
-![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
-![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
-
-### 📫 Like to meet me?
-
-Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
-
-<a href="https://calendly.com/anmol098/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
-
-👇 Hit in your console or terminal to connect with me.
-
-```bash
-npx anmol
-```
-**👆 This command line tool can be found at [npx anmol](https://github.com/anmol098/npx_card)**
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-```javascript
-const anmol = {
-    pronouns: "He" | "Him",
-    code: ["TypeScript", "Javascript", "Python", "Dart"],
-    askMeAbout: ["web dev", "app dev", "cloud computing", "UI/UX", "tech trends"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Next.js"],
-            css: ["Sass", "Tailwind", "Bootstrap"],
-            uiLibraries: ["Material UI", "Ant Design", "Chakra UI"],
-        },
-        backEnd: {
-            js: ["Node", "Express", "NestJS"],
-            python: ["Flask"],
-        },
-        mobileApp: {
-            crossPlatform: ["Flutter"],
-        },
-        devOps: ["Docker🐳", "CI/CD", "Nginx", "GitHub Actions"],
-        cloudServices: {
-            aws: ["AWS Fargate", "EC2", "S3", "Lambda", "CloudWatch", "RDS"],
-        },
-        databases: ["PostgreSQL", "MongoDB", "SQLite", "Firebase Realtime DB", "redis"],
-        misc: ["Socket.IO", "REST APIs", "WebSockets", "Cloud Functions"],
-        generativeAI: ["GPT", "Vectorization"],
-    },
-    architecture: {
-        frontEnd: ["SPA", "SSR"],
-        backEnd: ["microservices", "monolithic", "serverless"],
-        devOps: ["CloudFormation", "Serverless Framework"],
-        databases: ["Relational", "NoSQL", "In-memory"],
-    },
-    currentFocus: "Leading a way in generative AI innovation",
-    funFact: "I can debug faster with a coffee in hand!"
-};
-```
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+<p align="center"> 
+ ✨ 𝑻𝒐𝒅𝒂𝒚'𝒔 𝒔𝒄𝒊𝒆𝒏𝒄𝒆 𝒇𝒊𝒄𝒕𝒊𝒐𝒏 𝒊𝒔 𝒕𝒐𝒎𝒐𝒓𝒓𝒐𝒘'𝒔 𝒆𝒏𝒈𝒊𝒏𝒆𝒆𝒓𝒊𝒏𝒈. 🖥️
+</p>
 
 ---
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C410%20hrs%204%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1029-blue)
+<p align="center"> 
+  
+  <a href="https://www.linkedin.com/in/aryan-upa/">
+  <img align="left" alt="Aryan's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /> </a>
+  <a href="https://twitter.com/aryanupa"><img align="left" alt= "Aryan Upadhyay | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" /> </a>
+  <a href="https://open.spotify.com/user/6n6a8g7h9uh751nabxzb8eja4">
+  <img align="left" alt="Aryan's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" /> </a>
+  <img align="left" width="28px" src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif">
+  <img align="right" src="https://komarev.com/ghpvc/?username=aryan-upa&label=Profile%20views&color=0e75b6&style=flat" alt="aryan-upa" />
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.7%20million%20lines%20of%20code-blue)
+  <img align="right" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
+  <a href="https://www.instagram.com/aryan.upa/"> 
+    <img align="right" alt="Aryan's Instagran" src="https://img.shields.io/badge/-aryan.upa-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/aryan.upa"> </a>
+  <br> <br>
+  <img align="center" width="100%" src="https://github.com/aryan-upa/aryan-upa/blob/729396db4f9121be87310f53dd1cad7355e72644/GitBanner3.gif">
+</p>
 
-**🐱 My GitHub Data** 
-
-> 📦 251.1 kB Used in GitHub's Storage 
- > 
-> 🏆 199 Contributions in the Year 2024
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 22 Public Repositories 
- > 
-> 🔑 29 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                767 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-🌆 Daytime                1859 commits        ██████████░░░░░░░░░░░░░░░   40.41 % 
-🌃 Evening                1349 commits        ███████░░░░░░░░░░░░░░░░░░   29.33 % 
-🌙 Night                  625 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
 ```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   582 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
-Tuesday                  638 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
-Wednesday                737 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
-Thursday                 616 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
-Friday                   487 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
-Saturday                 597 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
-Sunday                   943 commits         █████░░░░░░░░░░░░░░░░░░░░   20.50 % 
+- 👋 Hi, I’m Aryan Upadhyay
+- 👀 I’m interested in Computers and Sciences.
+- 🌱 I’m currently learning everything that comes in my way, but particularly Computers. 😅
+- 🏫 I'm currently studying Data Structures and Algorithms through Java.
+- 💞️ I’m looking to collaborate in the field of Computational Sciences and Developoment of World Society.
+- 📫 You can reach me @ aryan.upadhyay_cs20@gla.ac.in or the mail in my Profile.
 ```
 
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Dubai
-
-💬 Programming Languages: 
-TypeScript               25 hrs 48 mins      ██████████████████░░░░░░░   70.83 % 
-JSON                     2 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
-SCSS                     2 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
-HTML                     1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
-JavaScript               45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
-
-🔥 Editors: 
-WebStorm                 36 hrs 26 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      36 hrs 26 mins      █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               32 repos            ██████████░░░░░░░░░░░░░░░   41.56 % 
-TypeScript               9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
-CSS                      7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Python                   5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
-Dart                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
-```
+### My Github Stats:
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=aryan-upa&show_icons=true&theme=aura"> <img align="right" width="29%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-upa&theme=aura">  
 
 
+### IDE/Editor (s) In Use:
+<img align="left" width="10%" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
+<img align="left" width="10%" src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white">
+<img align="left" width="10%" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green">
+<img align="left" width="10%" src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important">
+<img align="left" width="13%" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+<br>
 
 
- Last Updated on 29/11/2024 00:32:25 UTC
-<!--END_SECTION:waka-->
+<!--- Flags --->
+### Languages and Tools:
 
-**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
+  <a href="https://www.cprogramming.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/cpp/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a>
+  <a href="https://www.java.com"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+  <a href="https://www.python.org"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://www.geeksforgeeks.org/"> <img src="https://github.com/zumrudu-anka/zumrudu-anka/blob/0c76e7f5ca339abbaa0689c2c50454dbb6263b1d/images/problemSolving.png" alt="Problem Solving" width="40" height="40"/> </a> 
+  <a href="https://github.com/"> <img src="https://github.com/hussainweb/hussainweb/raw/main/icons/github.png" alt="git" width="40" height="40"/> </a> 
+  <a href="https://kotlinlang.org"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
+  <a href="https://www.mysql.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+   <br>
 
-NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
+
+### See me at:
+  <a href="https://codeforces.com/profile/Ary_upa"> <img align="left" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"> </a>
+  <a href="https://www.codechef.com/users/aryan_upa"> <img align="left" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white"> </a> <br> <br>
+
+
+### Commits & Streak:
+<p align="left" >
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=aryan-upa&theme=holi-theme&date_format=M%20j%5B%2C%20Y%5D&sideNums=A177FE&currStreakNum=A177FE&sideLabels=61FEC9&currStreakLabel=61FEC9&background=15141B&ring=61FEC9&fire=DD2727&stroke=DD5ACF&border=E4E2E2">
+</p>
+
+<br>
+<p align="center">
+  Any fool can write code that a computer can understand. Good programmers write code that humans can understand. <br>
+  - Martin Fowler <br>
+<img width="120%"  src="https://camo.githubusercontent.com/6038c8f1fd8f60de75477470e5a87210e9256202e01dfba9986446304a0f0254/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36302673656374696f6e3d666f6f746572">
+</p>
+
+
+<!---Un-Used--->
+
+<!-- <p width="100%">
+  <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-upa&theme=aura"> <br>
+  </p>
+ -->
+
+<!--- ![Aryan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-upa) --->
